@@ -205,6 +205,12 @@ section.user_info {
 }
 
 
+#logout {
+  cursor: default;
+  &:hover {
+    background-color: transparent;
+  }
+}
 
 
 /* forms */
